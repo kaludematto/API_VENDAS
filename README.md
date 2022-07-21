@@ -1,1 +1,2 @@
-# API_VENDAS
+API Vendas
+Curso ministrado pelo Mestre Jorge Aluizio
