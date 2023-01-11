@@ -31,3 +31,4 @@ class CreateProductService {
 }
 
 export default CreateProductService;
+console.log(Product);
